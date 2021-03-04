@@ -10,7 +10,7 @@
 
 [Ej_Limpieza_2.ipynb](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/Ej_Limpieza_2.ipynb)
 
-[Avance1_PIA_2.ipynb](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/Avance1_PIA_2%20(2).ipynb)
+[Avance1_PIA_2.ipynb](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/Avance1_PIA_2.ipynb)
 
 ## FASE II
 
