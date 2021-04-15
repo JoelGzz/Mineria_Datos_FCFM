@@ -22,4 +22,6 @@
 
 [PracticaII_VisualizacionDeDatos](https://github.com/robertoduenas/Mineria_de_Datos002/blob/main/Visualizacion_2.ipynb)
 
+[AvancePIA_II_002_2.ipynb](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/AvancePIA_II_002_2.ipynb?fbclid=IwAR167pjW1q7Q7XJvKJKDZ7INLvO9ylyFBbXWSvZ4RyDjkrk2zY-VBbdRal8)
+
 ## FASE III
