@@ -25,3 +25,4 @@
 [AvancePIA_II_002_2.ipynb](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/AvancePIA_II_002_2.ipynb?fbclid=IwAR167pjW1q7Q7XJvKJKDZ7INLvO9ylyFBbXWSvZ4RyDjkrk2zY-VBbdRal8)
 
 ## FASE III
+[PIA](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/pia%20(2).ipynb)
